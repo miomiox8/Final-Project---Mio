@@ -1,0 +1,63 @@
+{
+  "schema": "final-road-work-v1",
+  "payloadVersion": 2,
+  "course": "CS110",
+  "name": "Mio B",
+  "work": {
+    "project": "A story worth playing",
+    "path": "story",
+    "selected": [
+      "save"
+    ],
+    "engine": "Unity / C#",
+    "environmentTest": false,
+    "gitEvidence": "",
+    "ai": "",
+    "aiVerify": "",
+    "notes": "",
+    "plan": "",
+    "availability": "",
+    "service": "",
+    "supportMode": "closed",
+    "role": "Developer",
+    "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "huddle": {
+      "stage": 0,
+      "returned": false,
+      "goal": "",
+      "personal": "",
+      "questions": ""
+    },
+    "evidence": {},
+    "dailyDraft": {
+      "meeting": "",
+      "worked": "",
+      "next": "",
+      "blocker": "",
+      "evidence": ""
+    },
+    "requirements": [
+      {
+        "id": "core",
+        "code": "R01",
+        "title": "Working project foundation",
+        "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
+      },
+      {
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
+      }
+    ],
+    "tasks": [],
+    "dailyNotes": []
+  },
+  "team": null,
+  "sharedPlan": null,
+  "completedReports": []
+}
