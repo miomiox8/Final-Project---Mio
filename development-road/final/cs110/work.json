@@ -97,9 +97,9 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
-      "worked": "Today I",
-      "next": "",
-      "blocker": "",
+      "worked": "Today I decided how many levels the game will have and what I need to draw for each level. Also, I sketched out a few designs for the main character.",
+      "next": "Next, I will draw official art for the game.",
+      "blocker": "Nothing",
       "evidence": ""
     },
     "requirements": [
@@ -229,7 +229,24 @@
         ]
       }
     ],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "Today I decided how many levels the game will have and what I need to draw for each level. Also, I sketched out a few designs for the main character.",
+        "next": "Next, I will draw official art for the game.",
+        "blocker": "Nothing",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Create the character designs",
+            "due": "2026-11-23T13:22",
+            "done": false,
+            "result": ""
+          }
+        ]
+      }
+    ]
   },
   "team": {
     "name": "Hello World",
